@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "downlevelIteration": true,
+    "target": "ESNext",
+    "allowSyntheticDefaultImports": true,
+    "moduleResolution": "node",
+    "jsx": "react-jsx",
+    "noEmit": true,
+    "module": "ESNext",
+    "allowJs": true
+  },
+  "exclude": ["node_modules"]
+}
